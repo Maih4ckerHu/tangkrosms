@@ -1,12 +1,12 @@
-#!/bin/apk
+#!/bin/bash
 #==========================================================================================================================
 #========================================================================================================================== 
 #Vaim-sms v1.0
 #don't use my code with giving me credit 
 #if you use without giving me credit then you won't became a programmer so please respect
 #Youtube channel : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ
-#Github (coded by vaimpier ritik ) >>> : https://github.com/VaimpierOfficial
-#For business : sonuv0085@gmail.com
+#Github (coded by Mr.H4cker ) >>> : https://github.com/Maih4ckerHu
+#For business : mhcker42@gmail.com
 #vaimpier
 #==========================================================================================================================
 #==========================================================================================================================
@@ -22,15 +22,37 @@ printf "\e[1;91m      \     /  / __ \|  |  Y Y  \ /__\e[0m\e[1;93m___/  \___ \| 
 printf "\e[1;91m       \___/  (____  /__|__|_|  /    \e[0m\e[1;93m     /____  >__|_|  /____  > \e[0m\n "
 printf "\e[1;91m                   \/         \/     \e[0m\e[1;93m          \/      \/     \/  \e[0m\n "
 
+                                    ,-="""=.
+                                  .'        `.
+                                 (            `.
+                                  `.            `..
+                                   ,'             .'
+                                   `.            '.
+                                     `-.           `-.
+                                        )             `=-.
+                                      .'              `=-.
+                                    .`               .`-.
+                      _            (                \ `-.
+                   ,'   `.          `.        /`.    \
+                  /        `.         \      |   `.   `.
+                ,'            `.       )    /      \    \
+               /     .'`.        `.    )    |       `.   \
+             ,'    .'    `.         `./     \         `.  \
+           ,'    .'        `.                \          \  \
+         ,'    .'            `.               \          `. \
+       ,'   .'                 `.              )          ) (__.
+     ,'   (                      `.            )          `."""'
+ _.-'    __)                       `.         .  Mr.H4cker
+`""'""                               `"""""""
 printf "\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By VaimpierOfficial (Mr.H4cker)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By Jay Bhumihar Jay parshuram (Mr.H4cker)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @Mr.H4cker                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf "\n"
+intf "\n"
 printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
 printf "         testing in an authorized simulated cyberattack\n"
 printf "         Attacking targets without prior mutual consent\n"
-printf "         is illegal!\n"
+printf "         is illegal!....   ( 😭 Rona mt Hack to Hoga koi rok nahi sakta )\n"
 printf "\n"
 
 
@@ -42,18 +64,18 @@ upload() {
 
 clear
 printf "[+] HEY BRO PLEASE WAIT ......................... \n"
-printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'sonuv0085@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/VaimpierOfficial \n"
+printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'sonuv0085@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/Maih4ckerhu \n"
 sleep 7
 clear
 cd
 rm -rf Vaim-sms
-git clone https://github.com/VaimpierOfficial/Vaim-sms
+git clone https://github.com/Maih4ckerhu/Hack100%
 cd Vaim-sms
 chmod +x *
 clear
 printf "[+] SCRIPT UPDATED PLEASE WAIT ............. "
 sleep 2
-bash Vaim-sms.apk
+bash Vaim-sms.sh
 
 }
 
