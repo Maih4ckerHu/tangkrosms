@@ -64,12 +64,12 @@ upload() {
 
 clear
 printf "[+] HEY BRO PLEASE WAIT ......................... \n"
-printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'sonuv0085@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/Maih4ckerhu \n"
+printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'mhcker42@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/Maih4ckerhu \n"
 sleep 7
 clear
 cd
 rm -rf Vaim-sms
-git clone https://github.com/Maih4ckerhu/Hack100%
+git clone https://github.com/Maih4ckerhu/Vaim-sms
 cd Vaim-sms
 chmod +x *
 clear
